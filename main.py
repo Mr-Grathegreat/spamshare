@@ -7,7 +7,7 @@ import time
 import requests
 import json
 
-st.info("use your dummy account :)")
+st.info("Use Your Dummy Account pero kahit wag na siguro ganun narin yun HAHAHA")
 def Execute(cookie, post, share_count, delay):
 	head = {
 		'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36',
